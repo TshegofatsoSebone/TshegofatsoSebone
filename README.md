@@ -77,22 +77,19 @@ Mobile app built with Kotlin, Google APIs, and Firebase, enabling users to locat
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TshegofatsoSebone&show_icons=true&theme=tokyonight" height="160" />
+ 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshegofatsoSebone&layout=compact&theme=tokyonight" height="160" />
 
 </p>
 
-<p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=TshegofatsoSebone&theme=tokyonight" height="180" />
-
-</p>
 
 ---
 
 # 📫 Contact
-📧 Email: **paledisebene@gmail.com**  
+📧 Email: **paledisebene@gmail.com**
+📱 Phone: 063 483 1135
 🔗 LinkedIn: **[Tshegofatso Sebone](https://www.linkedin.com/in/tshegofatso-sebone-35b320250/)**
 
 ---
