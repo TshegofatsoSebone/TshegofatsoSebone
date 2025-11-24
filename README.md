@@ -71,6 +71,13 @@ Mobile app built with Kotlin, Google APIs, and Firebase, enabling users to locat
 
 ---
 
+### 📝 ATS-FREE CV Generator – Intelligent Resume Builder  
+A smart resume generation system that creates customized, ATS-friendly resumes based on user inputs.  
+Designed to deliver recruiter-ready documents with clean structure and optimized layouts.  
+**GitHub:** https://github.com/durksie/ATS-FREE-CV-GENERATOR-APP
+
+---
+
 ### 🧠 SentimentSphere – AI Sentiment Analysis Dashboard
 An interactive dashboard that analyzes sentiment in text data, helping users understand emotional tone in customer reviews, social media posts, or other text content.  
 Includes multi-class sentiment classification and confidence insights.  
