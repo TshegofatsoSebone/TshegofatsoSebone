@@ -1,20 +1,16 @@
-# About Me 
+
 
 ## 👋 Introduction
 I’m Tshegofatso Sebone, a software developer focused on building scalable, user-centric solutions across mobile, web, and cloud environments. My technical journey spans full-stack development, API-driven architectures, cloud technologies, and UI/UX design. Recently, I expanded my expertise into Artificial Intelligence to bring smarter, intelligent capabilities into software development.
 
 ---
 
-## 🧠 AI Learning Achievements
-Over the past month, I completed several industry-recognised AI certifications that strengthened my understanding of modern AI systems, real-world applications, and Generative AI technologies:
+### 🔹 About Me
 
-- 🎓 Introduction to Artificial Intelligence (AI) – IBM  
-- 🤖 AI Essentials – Intel  
-- 🌍 AI for Everyone – DeepLearning.AI  
-- ☁️ Introduction to Generative AI – Google Cloud  
-- 💡 Artificial Intelligence Essentials V2 – IBM  
+**Currently Learning:** Advanced Java, React, AWS, SQL, and modern AI-driven development practices  
+**Career Goal:** Full Stack Developer / Cloud Engineer with strong AI integration capabilities  
+**Passionate About:** Building scalable applications, cloud-native solutions, intelligent systems, and writing clean, maintainable code
 
-These certifications reinforced my passion for leveraging AI to drive innovation and create impactful digital solutions.
 
 ---
 
