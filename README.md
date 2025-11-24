@@ -71,6 +71,10 @@ Mobile app built with Kotlin, Google APIs, and Firebase, enabling users to locat
 
 ---
 
+### 🧠 SentimentSphere – AI Sentiment Analysis Dashboard
+An interactive dashboard that analyzes sentiment in text data, helping users understand emotional tone in customer reviews, social media posts, or other text content.  
+Includes multi-class sentiment classification and confidence insights.  
+**GitHub:** https://github.com/durksie/SentimentSphere22
 
 
 # 📈 GitHub Analytics
