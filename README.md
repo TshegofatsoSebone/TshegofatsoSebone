@@ -56,6 +56,8 @@ I’m Tshegofatso Sebone, a software developer focused on building scalable, use
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37726?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 
 ---
 
@@ -79,6 +81,10 @@ An interactive dashboard that analyzes sentiment in text data, helping users und
 Includes multi-class sentiment classification and confidence insights.  
 **GitHub:** https://github.com/durksie/SentimentSphere22
 
+---
+### ⚖️ Bias Audit Report – Income Prediction Fairness Analysis  
+Fairness and bias audit using statistical validation and mitigation techniques.  
+GitHub: https://github.com/durksie/GENDER-BIAS-AUDIT-REPORT 
 
 # 📈 GitHub Analytics
 
