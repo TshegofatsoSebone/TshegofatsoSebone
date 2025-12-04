@@ -87,12 +87,7 @@ Fairness and bias audit using statistical validation and mitigation techniques.
 GitHub: https://github.com/durksie/GENDER-BIAS-AUDIT-REPORT 
 
 
-# 📈 GitHub Analytics
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TshegofatsoSebone&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TshegofatsoSebone&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=TshegofatsoSebone&theme=tokyonight)
 
 
 
