@@ -1,4 +1,4 @@
-
+# ⭐ Tshegofatso Sebone — Software Developer | AI Enthusiast | Cloud & Full-Stack Builder
 
 ## 👋 Introduction
 I’m Tshegofatso Sebone, a software developer focused on building scalable, user-centric solutions across mobile, web, and cloud environments. My technical journey spans full-stack development, API-driven architectures, cloud technologies, and UI/UX design. Recently, I expanded my expertise into Artificial Intelligence to bring smarter, intelligent capabilities into software development.
